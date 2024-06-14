@@ -4,6 +4,7 @@
     "paths": {
       "@react-navigation/*": ["./packages/*/src"],
       "react-native-tab-view": ["./packages/react-native-tab-view/src"],
+      "react": [ "./node_modules/@types/react" ],
     },
     "composite": true,
     "allowUnreachableCode": false,
